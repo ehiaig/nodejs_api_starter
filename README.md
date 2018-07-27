@@ -1,8 +1,11 @@
 # NodeJs api
-This is a clean api written in node.js. It handles complete CRUD operations.
+This project a clean api written in node.js to serve an imaginary movie rental app. It handles complete CRUD operations for any Nodejs appllication.
 
-Follow the steps below to begin using the API
+Follow the steps below to setup API
 1. git clone https://github.com/ehiaig/vidly_node_api.git
 2. cd vidly_node_api
-3. npm init --yes
+3. Install the Dependencies
 
+`npm i`
+
+4. nmp start
